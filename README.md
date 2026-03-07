@@ -12,7 +12,7 @@ Features
  Save watermarked image
  Admin can access activity logs
 
-Technologies Used
+**Technologies Used**
 
 *Programming Language*
 
@@ -20,11 +20,11 @@ Java
 
 *Libraries*
 
-Java Swing (GUI)
+1.Java Swing (GUI)
 
-AWT Graphics
+2.AWT Graphics
 
-ImageIO
+3.ImageIO
 
 *Concepts Used*
 
@@ -62,6 +62,9 @@ password: 123
 
 
 
-SCREENSHOTS
-<img width="1920" height="1080" alt="File handling" src="https://github.com/user-attachments/assets/139943f1-d9c7-4c5b-a009-384739b41db3" />
-<img width="1721" height="953" alt="Feature selection" src="https://github.com/user-attachments/assets/1de6d9e6-1452-42e6-95cf-f1460ecdcfa2" />
+**SCREENSHOTS**
+
+File Upload
+<img width="1320" height="781" alt="File handling" src="https://github.com/user-attachments/assets/62aaeb37-a4a2-4f08-b14b-8045d2b22fd1" />
+Features Selection
+<img width="1321" height="753" alt="Feature selection" src="https://github.com/user-attachments/assets/1de6d9e6-1452-42e6-95cf-f1460ecdcfa2" />
