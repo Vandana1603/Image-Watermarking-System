@@ -39,16 +39,24 @@ File handling
 Logging system
 
 STEPS TO RUN THE PROJECT
+
 1.Prerequisites
+
 Make sure Java JDK 8 or higher is installed.
 
 2.Compile the Project
+
 Open a terminal inside the project folder and run:
+
 javac WatermarkApp.java WatermarkEngine.java
 
 3.Run the Application
+
 Execute the following command:
+
 java WatermarkApp
+
+
 The Watermark System GUI will open.
 
 LOGIN CREDENTIALS :
