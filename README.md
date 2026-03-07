@@ -21,15 +21,21 @@ Java
 *Libraries*
 
 Java Swing (GUI)
+
 AWT Graphics
+
 ImageIO
 
 *Concepts Used*
 
 GUI design
+
 Image processing
+ 
 Event-driven programming
+
 File handling
+
 Logging system
 
 STEPS TO RUN THE PROJECT
@@ -53,3 +59,9 @@ password: 123
 Admin:
 username: admin
 password: 123
+
+
+
+SCREENSHOTS
+<img width="1920" height="1080" alt="File handling" src="https://github.com/user-attachments/assets/139943f1-d9c7-4c5b-a009-384739b41db3" />
+<img width="1721" height="953" alt="Feature selection" src="https://github.com/user-attachments/assets/1de6d9e6-1452-42e6-95cf-f1460ecdcfa2" />
