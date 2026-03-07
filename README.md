@@ -12,9 +12,24 @@ Features
  Save watermarked image
  Admin can access activity logs
 
+Technologies Used
+*Programming Language*
+Java
+
+*Libraries*
+Java Swing (GUI)
+AWT Graphics
+ImageIO
+
+*Concepts Used*
+GUI design
+Image processing
+Event-driven programming
+File handling
+Logging system
 
 STEPS TO RUN THE PROJECT
-1. Prerequisites
+1.Prerequisites
 Make sure Java JDK 8 or higher is installed.
 
 2.Compile the Project
