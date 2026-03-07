@@ -13,15 +13,19 @@ Features
  Admin can access activity logs
 
 Technologies Used
+
 *Programming Language*
+
 Java
 
 *Libraries*
+
 Java Swing (GUI)
 AWT Graphics
 ImageIO
 
 *Concepts Used*
+
 GUI design
 Image processing
 Event-driven programming
