@@ -4,12 +4,19 @@ This project is a Java-based application that allows users to add a watermark to
 The system provides features such as watermark text customization, also provides a live preview feature, so users can see how the watermark looks before saving the final image.
 
 Features
+
  Image upload
+ 
  Custom watermark text
+ 
  Font style and size selection
+
  Color selection
+ 
  Live watermark preview
+ 
  Save watermarked image
+ 
  Admin can access activity logs
 
 **Technologies Used**
