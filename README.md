@@ -5,19 +5,17 @@ The system provides features such as watermark text customization, also provides
 
 Features
 
- Image upload
+ 1.Image upload
  
- Custom watermark text
+ 2.Custom watermark text
  
- Font style and size selection
+ 3.Font style and size selection
 
- Color selection
+ 4.Color selection
  
- Live watermark preview
+ 5.Live watermark preview
  
- Save watermarked image
- 
- Admin can access activity logs
+ 6.Admin can access activity logs
 
 **Technologies Used**
 
@@ -32,18 +30,6 @@ Java
 2.AWT Graphics
 
 3.ImageIO
-
-*Concepts Used*
-
-GUI design
-
-Image processing
- 
-Event-driven programming
-
-File handling
-
-Logging system
 
 STEPS TO RUN THE PROJECT
 
